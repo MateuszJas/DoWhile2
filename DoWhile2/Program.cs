@@ -21,9 +21,6 @@ namespace DoWhile2
                 if (liczba % i == 0)
                     Console.WriteLine(i);
                 
-
-
-
             } while (liczba != i);
 
             
